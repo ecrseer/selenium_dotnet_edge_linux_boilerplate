@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/nublado/.dotnet/store/|arch|/|tfm|",
+      "/home/nublado/.nuget/packages"
+    ]
+  }
+}

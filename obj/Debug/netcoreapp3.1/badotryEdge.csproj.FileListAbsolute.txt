@@ -1,0 +1,17 @@
+/home/nublado/Documents/badotryEdge/bin/Debug/netcoreapp3.1/badotryEdge
+/home/nublado/Documents/badotryEdge/bin/Debug/netcoreapp3.1/badotryEdge.deps.json
+/home/nublado/Documents/badotryEdge/bin/Debug/netcoreapp3.1/badotryEdge.runtimeconfig.json
+/home/nublado/Documents/badotryEdge/bin/Debug/netcoreapp3.1/badotryEdge.runtimeconfig.dev.json
+/home/nublado/Documents/badotryEdge/bin/Debug/netcoreapp3.1/badotryEdge.dll
+/home/nublado/Documents/badotryEdge/bin/Debug/netcoreapp3.1/badotryEdge.pdb
+/home/nublado/Documents/badotryEdge/obj/Debug/netcoreapp3.1/badotryEdge.csprojAssemblyReference.cache
+/home/nublado/Documents/badotryEdge/obj/Debug/netcoreapp3.1/badotryEdge.AssemblyInfoInputs.cache
+/home/nublado/Documents/badotryEdge/obj/Debug/netcoreapp3.1/badotryEdge.AssemblyInfo.cs
+/home/nublado/Documents/badotryEdge/obj/Debug/netcoreapp3.1/badotryEdge.csproj.CoreCompileInputs.cache
+/home/nublado/Documents/badotryEdge/obj/Debug/netcoreapp3.1/badotryEdge.dll
+/home/nublado/Documents/badotryEdge/obj/Debug/netcoreapp3.1/badotryEdge.pdb
+/home/nublado/Documents/badotryEdge/obj/Debug/netcoreapp3.1/badotryEdge.genruntimeconfig.cache
+/home/nublado/Documents/badotryEdge/bin/Debug/netcoreapp3.1/Microsoft.Edge.SeleniumTools.dll
+/home/nublado/Documents/badotryEdge/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/nublado/Documents/badotryEdge/bin/Debug/netcoreapp3.1/WebDriver.dll
+/home/nublado/Documents/badotryEdge/obj/Debug/netcoreapp3.1/badotryEdge.csproj.CopyComplete
