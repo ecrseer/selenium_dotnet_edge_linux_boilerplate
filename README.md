@@ -1,1 +1,1 @@
-# selenium dotnet edge linux boilerplate
+# selenium dotnet core edge linux boilerplate
